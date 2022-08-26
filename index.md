@@ -1,3 +1,9 @@
+# Jiaxuan's First CS193 Homework
+- Course is led by students who seem pretty cool
+- Covers many skills I'm interested in (Git, LaTeX, etc.)
+- No traditional exams or quizzes
+- Course looks to be pretty laid back in general
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
